@@ -1,4 +1,5 @@
 /abs/
+/adfs/ls/wia
 /adfs/services/trust/2005/windowstransport
 /aspnet_client/
 /autodiscover/
@@ -44,3 +45,4 @@
 /unifiedmessaging/
 /webticket/
 /webticket/webticketservice.svc
+/_windows/default.aspx?ReturnUrl=/
